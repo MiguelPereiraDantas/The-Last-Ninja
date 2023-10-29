@@ -31,3 +31,7 @@ Attack: 4
 Demo: 
 
 ![ezgif com-gif-maker (25)](https://user-images.githubusercontent.com/97748602/173020143-ac86ac3f-b2f0-4677-8361-5b04290491a1.gif)
+
+
+### Você quer testar ? 
+<p>Você pode ver e testar <a href="[https://rolwane.github.io/mega-sena-game/](https://o-caminho-dos-ninjas.vercel.app/)https://o-caminho-dos-ninjas.vercel.app/">clicando aqui</a></p>
