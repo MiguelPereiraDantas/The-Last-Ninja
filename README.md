@@ -1,5 +1,5 @@
 # js-game-way-of-samurai
-JavaScript HTML Canvas - Fighting Game "Way Of The Samurai"
+JavaScript HTML Canvas - Fighting Game "O Caminho dos Ninjas"
 
 How to play?
 
