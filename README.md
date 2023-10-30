@@ -1,5 +1,5 @@
 # js-game-The-Last-Ninja
-JavaScript HTML Canvas - Fighting Game "Way Of The Samurai"
+JavaScript HTML Canvas - Fighting Game "The Last Samurai"
 
 How to play?
 
