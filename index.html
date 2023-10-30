@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/oobe.css">
+    <link rel="icon" type="image/x-icon" href="assets/icons/sword.ico">
+    <title>The-Last-One</title>
+</head>
+<body>
+
+    <div class="menu">
+        <div id="visuals">
+            <h1>The Last Ninja</h1>
+            <img src="assets/icons/samurai.png" alt="samurai-icon.png" id="logo">
+        </div>
+
+        <div id="main-menu">
+            <button id="battle">BATTLE</button>
+            <button id="help">&nbsp;HELP&nbsp;</button>     <!-- &nbsp; for 1 blank space-->
+        </div>
+    </div>  
+    
+    <script>
+
+        const battle_btn = document.getElementById('battle');
+        battle_btn.addEventListener('click', ()=>{
+            window.location = 'theLastOne.html';
+        })
+        const help_btn = document.getElementById('help');
+        help_btn.addEventListener('click', ()=>{
+            window.location = 'help.html';
+        })
+    </script>
+</body>
+</html>
